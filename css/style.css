@@ -1,0 +1,372 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+body{
+    padding: 0px;
+    margin: 0px;
+}
+.Reactangle-1001{
+    width: auto;
+    height: 70px;
+    background-color: #ce0505;
+    position: relative;
+}
+.Ellipse-1001{
+    height: 35px;
+    width: 35px;
+    background-color: #ffffff;
+    margin: 12px 861px 0px 102px;
+    padding: 5px 5px;
+    position:absolute;
+    border-radius: 100%;
+}
+h1.Edureka-logo{
+    width: 32px;
+    height: 47px;
+    font-family: 'Poppins';
+    font-size: 32px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.52;
+    letter-spacing: normal;
+    text-align: left;
+    color: #eb2929;
+    margin: 0px 5px 0px 0px;
+    padding: 0px 0px 0px 5px;
+}
+a.Login{
+    width: 43px;
+    height: 23px;
+    font-family: 'Poppins';
+    margin: 5px 28px 43px 1015px;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.56;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+    text-decoration: none;
+    float: right;
+    margin: 20px 30px 11px 0px;
+    padding: 0px 23px 0px 0px;
+    position: inherit;
+}
+button.Create-an-account{
+    color: #ffffff;
+    background-color: #ce0505;
+    width: 181px;
+    height: 36px;
+    border-radius: 3px;
+    border: solid 1px #ffffff;
+    margin: 20px 30px 11px 0px;
+    position: inherit;
+    float: right;
+    font-family: 'Poppins';
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.56;
+    letter-spacing: normal;
+    text-align: center;
+    margin: 13px 77px 11px 0px;
+}
+
+.Breakfast-Places-in-Mumbai{
+    width: 512px;
+    height: 51px;
+    margin: 37px 25px 27px 113px;
+    font-family: 'Poppins';
+    font-size: 36px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+}
+
+.Reactangle-1002-panel{
+    height: auto;
+    width: auto;
+}
+
+.Reactangle-1003-left{
+    width: auto;
+    height: auto;
+    margin: 27px 45px 8px 113px;
+    padding: 17px 25px 31px 26px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: #ffffff;
+    position: absolute;
+}
+
+h2.Filters{
+    width: 55px;
+    height: 25px;
+    margin: 0 154px 10px 0;
+    font-family: 'Poppins';
+    font-size: 18px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    text-align: left;
+    color: #192f60;
+}
+
+h4.Select-Location{
+    width: 106px;
+    height: 20px;
+    margin: 10px 102px 11px 1px;
+    font-family: 'Poppins';
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.56;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+}
+
+select.Reactangle-1003-Select{
+    width: 208px;
+    height: 35px;
+    margin: 11px 0 22px 1px;
+    padding: 8px 16.7px 7px 15px;
+    border-radius: 3px;
+    border: solid 1px #8c96ab;
+}
+
+h4.Cuisine{
+    width: 106;
+    height: 20px;
+    margin: 10px 102px 11px 1px;
+    font-family: 'Poppins';
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.56;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+}
+.Rectangle-1004-checkbox{
+    width: 18px;
+    height: 18px;
+    margin: 15px 11px 14px 1px;
+    border-radius: 1.5px;
+    border: solid 1.5px #3a5075;   
+}
+
+.Rectangle-1004-label{
+    width: 85px;
+    height: 20px;
+    margin: 15px 65px 12px 11px;
+    font-family: 'Poppins';
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.56;
+    letter-spacing: normal;
+    text-align: left;
+    color: #8c96ab;
+}
+
+.Rectangle-1004-Radio{
+    width: 18px;
+    height: 18px;
+    margin: 15px 11px 14px 1px;
+    border-radius: 9px;
+    border: solid 1.5px #3a5075;
+}
+
+.Reactangle-1003-Right{
+    width: 60%;
+    margin: 0px 45px 8px 35px;
+    padding: 10px 25px 31px 26px;
+    position: absolute;
+    left: 360px;
+}
+
+.Reactangle-1004{
+    width: 691px;
+    height: 291px;
+    margin: 15px 154px 42px 45px;
+    padding: 25px 32.6px 20px 35px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+}
+
+.Reactangle-1005-Image{
+    width: 120px;
+    height: 120px;
+    margin: 0 41px 31px 0;
+    opacity: 1;
+    border-radius: 23px;
+    background-color: #ea6060;
+    position: absolute;
+    overflow: hidden;
+    background: url(./images/shutterstock_1154073754.jpg);
+    background-size: contain;
+}
+
+.Image-Reactangle{
+    height: 120px;
+    width: 120px;
+}
+
+.Reactangle-1005-Content{
+    position: absolute; 
+    margin: 0 0 30px 156px;
+    height: 120px;
+    width: auto;
+}
+
+.Title{
+    color: #192f60;
+    margin: 12px 0 7px 0px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-size: 30px;
+    font-weight: 600;
+    font-stretch: normal;
+    line-height: 1.56;
+    letter-spacing: normal;
+    text-align: left;
+}
+.Sub-Title{
+    width: 39px;
+    height: 23px;
+    margin: 5px 521.4px 5px 0px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;   
+}
+
+.Address{
+    width: 365px;
+    height: 23px;
+    margin: 5px 195.4px 38px 0px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #636f88;
+}
+
+.Path-6195{
+    width: 690px;
+    height: 0;
+    margin: 156px 0 0;
+    border: solid 1px #dedfe5;
+
+}
+
+.Reactangle-1005{
+    background-color: #8c96ab;
+    position: relative;
+}
+
+.Reactangle-1005-Title{
+    width: 140px;
+    height: 90px;
+    margin: 25px 0px 5px 0px;
+    position: absolute;
+    
+}
+
+.Cost-Title{
+    margin: 7px 0px 0px 7px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.56;
+    letter-spacing: normal;
+    text-align: left;
+    color: #636f88;
+}
+
+.Reactangle-1005-Price{
+    width: 140px;
+    margin: 25px 0px 0px 150px;
+    height: 90px;
+    position: absolute;
+    float: right;
+}
+
+.Cost{
+    margin: 7px 0px 0px 7px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.56;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+}
+.Reactangle-1006{
+    height: 36px;
+    width: auto;
+    padding: 0px 0px 0px 198px;
+}
+
+.Number{
+    width: 6px;
+    height: 28px;
+    font-family: 'Poppins';
+    font-size: 20px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #8c96ab;
+    margin: 4px 0px 0px 14px;
+    text-decoration: none;
+    background-color: #ffffff;
+    padding: 6px 14px;
+    border-radius: 7px;
+    border: solid 1px #8c96ab;
+}
+
+.Number-Selected{
+    width: 6px;
+    height: 28px;
+    font-family: 'Poppins';
+    font-size: 20px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+    margin: 4px 0px 0px 14px;
+    text-decoration: none;
+    background-color: #8c96ab;
+    padding: 7px 16px;
+    border-radius: 7px;
+    border: solid 1px #8c96ab;   
+}
+                    
+            
